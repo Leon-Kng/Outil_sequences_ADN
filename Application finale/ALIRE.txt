@@ -1,0 +1,1 @@
+Executer "gui_appli.py" à l'aide de python pour ouvrir l'interface graphique du programme. 
