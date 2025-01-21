@@ -1,0 +1,1 @@
+Projet python pour le cours d'introduction à l'algorithmique en L3 Sciences de la Vie à l'université de Strasbourg ayant pour but la création d'un petit outil permettant de modifier des séquences d'ADN via une interface graphique.
